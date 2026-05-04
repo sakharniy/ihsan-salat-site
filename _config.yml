@@ -1,0 +1,7 @@
+title: Ihsan Salat
+description: Muslim prayer times app for Central Asia (Uzbekistan, Kazakhstan, Russia)
+theme: jekyll-theme-cayman
+permalink: /:basename
+include:
+  - PRIVACY_POLICY.md
+  - PRIVACY_POLICY_RU.md
