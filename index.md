@@ -16,7 +16,7 @@ Coming to App Store and Google Play in early 2027 (soft launch in Kazakhstan), f
 
 ## Contact
 
-Email: [matikmay@gmail.com](mailto:matikmay@gmail.com)
+Email: [bestindianbets@gmail.com](mailto:bestindianbets@gmail.com)
 
 ## Source code
 

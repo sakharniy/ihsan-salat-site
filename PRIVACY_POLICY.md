@@ -2,7 +2,7 @@
 
 **Effective date:** 2026-05-04
 **Last updated:** 2026-05-04
-**Developer contact:** matikmay@gmail.com
+**Developer contact:** bestindianbets@gmail.com
 
 This Privacy Policy describes how the **Ihsan Salat** mobile application (the "App") handles your information.
 
@@ -87,7 +87,7 @@ We may update this Privacy Policy as the App evolves (e.g. when adding paid subs
 
 Questions, complaints, or data requests:
 
-- Email: **matikmay@gmail.com**
+- Email: **bestindianbets@gmail.com**
 - Subject line: *"Ihsan Salat — privacy"*
 
 ---
